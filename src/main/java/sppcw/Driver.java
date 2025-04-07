@@ -22,3 +22,5 @@ public class Driver {
         return rating;
     }
 }
+
+// Added a comment for CI testing purposes.
